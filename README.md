@@ -1,5 +1,5 @@
 # Everything Animate
-An Introduction to CSS animations and tranform property
+An Introduction to CSS animations and the transform property
 
 <h3>Desired Outcome</h3>
 <ul>
@@ -20,7 +20,6 @@ An Introduction to CSS animations and tranform property
   <li>Create an animation.css file inside your css folder</li>
   <li>Link your animate.css</li>
 </ol>
-<h5>*DO NOT TOUCH OR EDIT THE <i>STYLES.CSS</i> FILE</h5>
 <br/>
 
 ## CSS Tasks
