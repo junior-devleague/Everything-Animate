@@ -25,3 +25,15 @@ h3{
   text-align: center;
 }
 
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 80px;
+  color: blue;
+}
+
+#stretch {
+  border-bottom: 1px solid #000;
+}

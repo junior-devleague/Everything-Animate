@@ -29,6 +29,7 @@ An Introduction to CSS animations and the transform property
   <li>Apply multiple properties to the div with an id of 'all'</li>
   <li>Create new HTML element and use the transform property, `matrix`</li>
   <li>Create an input element and use the pseudo selector `:focus` on it</li>
+  <li>Use the pseudo selector `:hover` on id of `psuedo`</li>
   <li>Create and name a keyframe.
   <li>Add css properties to 2-3 stages of the keyframe animation</li>
   <li>Add the keyframe to the div with an id of 'animate'</li>
